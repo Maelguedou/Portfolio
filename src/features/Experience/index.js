@@ -1,0 +1,1 @@
+export {EducationExperience} from './components/experience';

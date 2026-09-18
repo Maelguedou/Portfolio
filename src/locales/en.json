@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home", "about": "About", "skills": "Skills", "experience": "Experience", "projects": "Projects", "contact": "Contact", "contactMe": "Contact me", "openMenu": "Open navigation menu"
+  },
+  "hero": {
+    "greeting": "Hello, I'm", "roleIntro": "And I'm", "role": "a full-stack developer", "description": "I build web and mobile applications that exceed your expectations.", "cta": "Discover my projects", "portraitAlt": "Portrait of Maël Guedou"
+  },
+  "about": { "title": "About me" },
+  "terminal": {
+    "welcome": "Welcome to my portfolio! Type \"help\" to see the available commands.",
+    "help": "Available commands: help, education, skills, contact, clear, status, availability, bio",
+    "status": "Open to work", "availability": "Immediately available",
+    "bio": "I am Maël GUEDOU, a software developer trained at IFRI. My journey naturally evolved from web development to the mobile ecosystem, allowing me to bring a versatile approach across both domains. Equally fascinated by data, I continuously expand my skills to build increasingly intelligent solutions.",
+    "education": "ACADEMIC BACKGROUND\n│\n├── IFRI (Institute for Training and Research in Computer Science)\n│   ├── Major: Software Engineering\n│   ├── Status: Bachelor's degree (thesis pending)\n│   └── Location: Abomey-Calavi, Benin\n│\n└── Collège Mgr Steinmetz\n    ├── Track: Secondary education\n    └── Location: Bohicon, Benin",
+    "skills": "TECHNICAL SKILLS\n│\n├── Web development\n│   ├── HTML, CSS, JavaScript, PHP, Dart, Python, Tailwind CSS\n│   ├── Frameworks: React.js, Vue.js, Laravel\n│   └── Tools: Git, Docker\n│\n└── Mobile development\n    └── Flutter",
+    "contact": "CONTACT INFORMATION\n│\n├── Email: maelguedou9@gmail.com\n├── Phone: +229 01 96 42 07 97\n└── LinkedIn: Maël GUEDOU",
+    "notFound": "Command not found: {{command}}. Type \"help\" for the list of commands.", "windowTitle": "mael@portfolio · zsh"
+  },
+  "skills": { "eyebrow": "Tech stack & skills", "title": "Technologies I work with" },
+  "experience": {
+    "title": "Experience",
+    "exp-1": { "period": "April 2026 - July 2026", "title": "IT Developer Intern", "description": "ED-SEG (Doctoral School of Economics and Management Sciences)." },
+    "exp-2": { "period": "June 2025 - September 2025", "title": "Web Developer Intern", "description": "e-gbavou" }
+  },
+  "projects": {
+    "title": "My recent work", "sourceCode": "Source code", "viewDemo": "View demo",
+    "items": {
+      "shop": { "title": "OlaShop e-commerce platform", "description": "Olashop is an online store with an administrative interface that integrates inventory management and digitizes deliveries for sold items." },
+      "alodo": { "title": "Diagnostic system", "description": "A diagnostic system for issues facing Beninese MSMEs that offers support after analysis and interpretation of diagnostic results." },
+      "campus": { "title": "CampusConnect", "description": "A web platform designed to facilitate communication and activity management within a school at the University of Abomey-Calavi." },
+      "eae": { "title": "Event After Event", "description": "An event platform for wedding project management." },
+      "wishes": { "title": "Wishes", "description": "A platform for drafting and sharing greetings." }
+    }
+  },
+  "contact": {
+    "title": "Contact me", "infoTitle": "Contact information", "formTitle": "Send me a message", "firstName": "First name", "lastName": "Last name", "email": "Email", "message": "Message", "messagePlaceholder": "Your message...", "send": "Send message",
+    "details": { "email": "Email", "phone": "Phone", "location": "Location", "github": "GitHub", "linkedin": "LinkedIn" }
+  },
+  "footer": { "rights": "All rights reserved." }
+}

@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Accueil", "about": "À propos", "skills": "Compétences", "experience": "Expérience", "projects": "Projets", "contact": "Contact", "contactMe": "Me contacter", "openMenu": "Ouvrir le menu de navigation"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis", "roleIntro": "Et je suis", "role": "développeur full-stack", "description": "Je conçois des applications web et mobiles qui dépassent vos attentes.", "cta": "Découvrir mes projets", "portraitAlt": "Portrait de Maël Guedou"
+  },
+  "about": { "title": "À propos de moi" },
+  "terminal": {
+    "welcome": "Bienvenue sur mon portfolio ! Tapez « aide » pour voir les commandes disponibles.",
+    "help": "Commandes disponibles : aide, formation, competences, contact, clear, status, disponibilite, bio",
+    "status": "Disponible pour travailler", "availability": "Immédiatement",
+    "bio": "Je suis Maël GUEDOU, développeur logiciel formé à l'IFRI. Mon parcours a naturellement évolué du développement web vers l'écosystème mobile, ce qui me permet aujourd'hui d'apporter une approche polyvalente dans ces deux domaines. Également passionné par les données, je développe continuellement mes compétences afin de créer des solutions toujours plus intelligentes.",
+    "education": "PARCOURS ACADÉMIQUE\n│\n├── IFRI (Institut de Formation et de Recherche en Informatique)\n│   ├── Spécialité : Génie logiciel\n│   ├── Statut : Cycle licence (en attente de soutenance)\n│   └── Lieu : Abomey-Calavi, Bénin\n│\n└── Collège Mgr Steinmetz\n    ├── Parcours : Enseignement secondaire\n    └── Lieu : Bohicon, Bénin",
+    "skills": "COMPÉTENCES TECHNIQUES\n│\n├── Développement web\n│   ├── HTML, CSS, JavaScript, PHP, Dart, Python, Tailwind CSS\n│   ├── Frameworks : React.js, Vue.js, Laravel\n│   └── Outils : Git, Docker\n│\n└── Développement mobile\n    └── Flutter",
+    "contact": "INFORMATIONS DE CONTACT\n│\n├── E-mail : maelguedou9@gmail.com\n├── Téléphone : +229 01 96 42 07 97\n└── LinkedIn : Maël GUEDOU",
+    "notFound": "Commande introuvable : {{command}}. Tapez « aide » pour obtenir la liste des commandes.", "windowTitle": "mael@portfolio · zsh"
+  },
+  "skills": { "eyebrow": "Stack technique et compétences", "title": "Technologies que j'utilise" },
+  "experience": {
+    "title": "Expérience",
+    "exp-1": { "period": "Avril 2026 - Juillet 2026", "title": "Stagiaire développeur informatique", "description": "ED-SEG (École doctorale des sciences économiques et de gestion)." },
+    "exp-2": { "period": "Juin 2025 - Septembre 2025", "title": "Stagiaire développeur web", "description": "e-gbavou" }
+  },
+  "projects": {
+    "title": "Mes réalisations récentes", "sourceCode": "Code source", "viewDemo": "Voir la démo",
+    "items": {
+      "shop": { "title": "Plateforme e-commerce OlaShop", "description": "Olashop est une boutique en ligne avec une interface d'administration qui intègre la gestion des stocks et numérise le processus de livraison des articles vendus." },
+      "alodo": { "title": "Système de diagnostic", "description": "Un système de diagnostic des difficultés rencontrées par les MPME béninoises, qui offre un accompagnement après l'analyse et l'interprétation des résultats." },
+      "campus": { "title": "CampusConnect", "description": "Une plateforme web conçue pour faciliter la communication et la gestion des activités au sein d'une école de l'Université d'Abomey-Calavi." },
+      "eae": { "title": "Event After Event", "description": "Plateforme de gestion de projets de mariage." },
+      "wishes": { "title": "Wishes", "description": "Plateforme de rédaction et de partage de vœux." }
+    }
+  },
+  "contact": {
+    "title": "Me contacter", "infoTitle": "Informations de contact", "formTitle": "Envoyez-moi un message", "firstName": "Prénom", "lastName": "Nom", "email": "E-mail", "message": "Message", "messagePlaceholder": "Votre message ici...", "send": "Envoyer le message",
+    "details": { "email": "E-mail", "phone": "Téléphone", "location": "Localisation", "github": "GitHub", "linkedin": "LinkedIn" }
+  },
+  "footer": { "rights": "Tous droits réservés." }
+}

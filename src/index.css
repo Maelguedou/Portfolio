@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@theme {
+
+  /* ---------- BRAND / PRIMARY ---------- */
+
+  --color-primary-50:  #faf5ff;
+  --color-primary-100: #f3e8ff;
+  --color-primary-200: #e9d5ff;
+  --color-primary-300: #d8b4fe;
+  --color-primary-400: #c084fc;
+  --color-primary-500: #a855f7;
+  --color-primary-600: #9333ea;
+  --color-primary-700: #7e22ce;
+  --color-primary-800: #6b21a8;
+  --color-primary-900: #581c87;
+  --color-primary-950: #2e0a3f;
+
+  /* Couleurs principales de l'identité */
+  --color-primary:       #a855f7;
+  --color-primary-hover: #9333ea;
+  --color-primary-light: #e9d5ff;
+
+
+  /* ---------- VIOLET LUMINEUX ---------- */
+
+  --color-violet-400: #c084fc;
+  --color-violet-500: #a855f7;
+  --color-violet-600: #9333ea;
+  --color-violet-700: #7e22ce;
+
+  --color-glow: #b967ff;
+
+
+  /* ---------- BACKGROUND ---------- */
+
+  --color-background:       #050407;
+  --color-background-light: #0c0612;
+  --color-background-soft:  #10091a;
+  --color-background-secondary-light: #ffffff;
+  --color-surface:          #0d0812;
+  --color-surface-light:    #140d1d;
+  --color-surface-hover:    #1b1027;
+
+  --color-card:             #110a18;
+  --color-card-hover:       #180e23;
+
+
+  /* ---------- DARK PURPLE ---------- */
+
+  --color-purple-dark:      #0c0612;
+  --color-purple-deep:      #140a1f;
+  --color-purple-surface:   #201034;
+  --color-purple-border:    #3a1d52;
+
+
+  /* ---------- TEXT ---------- */
+
+  --color-text:             #f8f5fa;
+  --color-text-primary:     #f4eef8;
+  --color-text-secondary:   #b9adbf;
+  --color-text-muted:       #817488;
+  --color-text-disabled:    #514957;
+  --color-text-secondary-light: #B8AEBF;
+
+  /* ---------- BORDERS ---------- */
+
+  --color-border:           #26172f;
+  --color-border-light:     #352040;
+  --color-border-active:    #6d3b91;
+
+
+  /* ---------- STATUS ---------- */
+
+  --color-success:          #4ade80;
+  --color-success-dark:     #166534;
+  --color-success-light:    #dcfce7;
+
+  --color-warning:          #fbbf24;
+  --color-warning-dark:     #92400e;
+  --color-warning-light:    #fef3c7;
+
+  --color-danger:           #f87171;
+  --color-danger-dark:      #991b1b;
+  --color-danger-light:     #fee2e2;
+
+  --color-info:             #a78bfa;
+  --color-info-dark:        #5b21b6;
+  --color-info-light:       #ede9fe;
+
+
+  /* ---------- NEUTRALS ---------- */
+
+  --color-white:            #ffffff;
+  --color-black:            #000000;
+  --color-white-soft:       #f5f2f7;
+}
